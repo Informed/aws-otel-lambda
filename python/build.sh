@@ -22,7 +22,7 @@ echo "================== Go to build folder ================== "
 cd ./build || exit
 
 # Add AWS X-Ray dependencies
-# echo "Adding AWS X-Ray dependencies"
+# echo "================== Adding AWS X-Ray dependencies ================== "
 # pip install opentelemetry-sdk-extension-aws -t python/
 
 # Combine the layers
