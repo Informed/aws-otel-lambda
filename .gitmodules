@@ -1,3 +1,4 @@
 [submodule "opentelemetry-lambda"]
 	path = opentelemetry-lambda
 	url = git@github.com:Informed/opentelemetry-lambda.git
+	branch = work-v1.12.0rc2
